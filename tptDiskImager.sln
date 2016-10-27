@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tptDiskImager", "tptDiskImager\tptDiskImager.csproj", "{0F5D1373-3CD8-4965-89FB-9D31BA377864}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5E9AA56E-6428-4DED-97A2-C51C51A6EA89} = {5E9AA56E-6428-4DED-97A2-C51C51A6EA89}
+		{303F50C6-4EBB-45C5-BFEA-F5F39CAF0410} = {303F50C6-4EBB-45C5-BFEA-F5F39CAF0410}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceIOControlLib", "..\..\..\..\Downloads\CSharp Libraries\DeviceIOControlLib-master\DeviceIOControlLib\DeviceIOControlLib.csproj", "{303F50C6-4EBB-45C5-BFEA-F5F39CAF0410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawDiskLib", "..\..\..\..\Downloads\CSharp Libraries\RawDiskLib-master\RawDiskLib\RawDiskLib.csproj", "{5E9AA56E-6428-4DED-97A2-C51C51A6EA89}"
+	ProjectSection(ProjectDependencies) = postProject
+		{303F50C6-4EBB-45C5-BFEA-F5F39CAF0410} = {303F50C6-4EBB-45C5-BFEA-F5F39CAF0410}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F5D1373-3CD8-4965-89FB-9D31BA377864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F5D1373-3CD8-4965-89FB-9D31BA377864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F5D1373-3CD8-4965-89FB-9D31BA377864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F5D1373-3CD8-4965-89FB-9D31BA377864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{303F50C6-4EBB-45C5-BFEA-F5F39CAF0410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303F50C6-4EBB-45C5-BFEA-F5F39CAF0410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303F50C6-4EBB-45C5-BFEA-F5F39CAF0410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303F50C6-4EBB-45C5-BFEA-F5F39CAF0410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E9AA56E-6428-4DED-97A2-C51C51A6EA89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9AA56E-6428-4DED-97A2-C51C51A6EA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9AA56E-6428-4DED-97A2-C51C51A6EA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9AA56E-6428-4DED-97A2-C51C51A6EA89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

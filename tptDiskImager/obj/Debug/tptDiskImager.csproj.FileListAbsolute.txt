@@ -1,0 +1,14 @@
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptDiskImager\tptDiskImager\bin\Debug\tptDiskImager.exe.config
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptDiskImager\tptDiskImager\obj\Debug\tptDiskImager.csprojResolveAssemblyReference.cache
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptDiskImager\tptDiskImager\obj\Debug\tptDiskImager.Form1.resources
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptDiskImager\tptDiskImager\obj\Debug\tptDiskImager.Properties.Resources.resources
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptDiskImager\tptDiskImager\obj\Debug\tptDiskImager.csproj.GenerateResource.Cache
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptDiskImager\tptDiskImager\bin\Debug\tptDiskImager.exe
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptDiskImager\tptDiskImager\bin\Debug\tptDiskImager.pdb
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptDiskImager\tptDiskImager\obj\Debug\tptDiskImager.exe
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptDiskImager\tptDiskImager\obj\Debug\tptDiskImager.pdb
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptDiskImager\tptDiskImager\bin\Debug\DeviceIOControlLib.dll
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptDiskImager\tptDiskImager\bin\Debug\RawDiskLib.dll
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptDiskImager\tptDiskImager\bin\Debug\DeviceIOControlLib.pdb
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptDiskImager\tptDiskImager\bin\Debug\RawDiskLib.pdb
+c:\users\josh.tptech\documents\visual studio 2015\Projects\tptDiskImager\tptDiskImager\obj\Debug\tptDiskImager.about.resources
